@@ -110,7 +110,7 @@ footer {
 }
 
 .imagenFondo {
-  background-image: url(/imagenes/festejoLol.jpg);
+  background-image:url("../imagenes/imagenpublico.jpg");
   background-position: center center;
   background-size: cover;
   height: 500px;
