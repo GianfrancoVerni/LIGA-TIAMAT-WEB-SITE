@@ -110,7 +110,7 @@ footer {
 }
 
 .imagenFondo {
-  background-image: url(/imagenes/crowd-image.jpg);
+  background-image: url(/publicoimagen.jpg);
   background-position: center center;
   background-size: cover;
   height: 500px;
