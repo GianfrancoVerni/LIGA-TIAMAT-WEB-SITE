@@ -110,9 +110,10 @@ footer {
 }
 
 .imagenFondo {
-  background-image:url("../imagenes/imagenpublico.jpg");
+  background-image:linear-gradient(rgba(5,7,12,0.75),rgba(5,7,12,0.75)),url("../imagenes/imagenpublico.jpg");
   background-position: center center;
   background-size: cover;
+  background-attachment: fixed; 
   height: 500px;
   border-radius: 20px;
   border: solid #474747 2px;
